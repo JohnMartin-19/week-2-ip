@@ -1,0 +1,35 @@
+form:hover {
+    color: orange;
+}
+
+h1 {
+    text-align: center;
+}
+
+.good {
+    float: center;
+    border: 2px solid red;
+    padding: 6px;
+    margin: 20px;
+    background-color: green;
+}
+
+.filling div {
+    padding: 6px;
+    background-color: darkgrey;
+    text-align: center;
+}
+
+.go {
+    padding: 6px;
+    margin: 20px;
+    background-color: grey;
+    text-align: center;
+}
+
+.jk {
+    padding: 8px;
+    margin: 30px;
+    background-color: grey;
+    text-align: center;
+}
